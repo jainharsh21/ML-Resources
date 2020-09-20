@@ -1,7 +1,7 @@
 # K Nearest Neighbours
 
 ## Intuition
-
+It is a non linear classifier.
 ### Algorithm
 ![image](https://user-images.githubusercontent.com/44740658/93711153-ac5aef80-fb69-11ea-81d0-023c79a0cdb2.png)
 
