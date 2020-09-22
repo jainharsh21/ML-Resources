@@ -16,7 +16,7 @@ Distance betweem two clusters
 
 Distance between two points is basically the disimillarity between them.
 
-### Dendogram
+### Dendrogram
 ![image](https://user-images.githubusercontent.com/44740658/93884125-202f0080-fd00-11ea-8b74-404b8cb50139.png)
 
 In dendograms we set thresholds which helps us to determine the number of clusters in our model.
