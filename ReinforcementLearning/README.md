@@ -7,3 +7,11 @@ In this part, you will understand and learn how to implement the following Reinf
 Upper Confidence Bound (UCB)
 
 Thompson Sampling
+
+## Multi Armed Bandit Problem
+
+Exploit the best option while exploring it
+![image](https://user-images.githubusercontent.com/44740658/94119312-59847f00-fe6c-11ea-8bab-bbe86eed3836.png)
+![image](https://user-images.githubusercontent.com/44740658/94119720-eb8c8780-fe6c-11ea-9328-2516d1e8c903.png)
+
+
