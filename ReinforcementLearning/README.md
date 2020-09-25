@@ -17,5 +17,7 @@ Exploit the best option while exploring it
 ## General Idea
 ![image](https://user-images.githubusercontent.com/44740658/94120484-ca786680-fe6d-11ea-898b-0b46b97ff9d3.png)
 
+## Difference between UCB and Thompson
+![image](https://user-images.githubusercontent.com/44740658/94282445-76ed4200-ff6d-11ea-9688-3b6ca6e20620.png)
 
 
